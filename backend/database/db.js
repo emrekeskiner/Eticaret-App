@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const uri = "mongodb+srv://emrekeskiner:cYqOAuL1nFepEbhp@eticaretdb.cjsqf.mongodb.net/?retryWrites=true&w=majority&appName=EticaretDb";
+const uri = "mongodb+srv://emrekeskiner:xx@eticaretdb.cjsqf.mongodb.net/?retryWrites=true&w=majority&appName=EticaretDb";
 
 const connection = ()=>{
     mongoose.connect(uri,{
