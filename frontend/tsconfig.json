@@ -10,6 +10,7 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "strictNullChecks": false,
     "isolatedModules": true,
     "esModuleInterop": true,
     "sourceMap": true,
